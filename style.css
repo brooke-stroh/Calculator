@@ -1,0 +1,41 @@
+#numberOne{
+  border-radius: 10%;
+    border: 2px solid #00aeff
+}
+#numberTwo{
+  border-radius: 10%;
+    border: 2px solid #00fffa
+}
+#buttonSum{
+  background-color: #000000;
+  color: #ff7575
+}
+#buttonDivide{
+  background-color: #000000;
+    color: #f0c05f
+}
+#buttonSubtract{
+  background-color: #000000;
+    color: #82f260
+}
+#buttonMultiply{
+  background-color:#000000;
+    color: #5f7cef
+}
+
+#buttonSum:hover{
+  color: #9fcaf2;
+ background-color: #ffffff
+}
+#buttonDivide:hover{
+  color: #19c6a4;
+ background-color: #ffffff
+}
+#buttonSubtract:hover{
+  color: #9fcaf2;
+ background-color: #ffffff
+}
+#buttonMultiply:hover{
+  color: #19c6a4;
+ background-color: #ffffff
+}
